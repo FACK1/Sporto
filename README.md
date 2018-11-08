@@ -1,4 +1,3 @@
-# Sporto
 
 # Sporto
 Sprto is an app using API from Sports DB allowing users to search about their fav footbal players and Teams.
