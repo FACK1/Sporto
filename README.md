@@ -3,8 +3,6 @@
 # Sporto
 Sprto is an app using API from Sports DB allowing users to search about their fav footbal players and Teams.
 
-# Site Link : https://fack1.github.io/Sporto-.-/html/index.html
-
 # User journey :
 In Our App You can find info about Your fav players or team :
   - In Our Basic page we Have tow card 
@@ -12,7 +10,7 @@ In Our App You can find info about Your fav players or team :
         search box , enter your player name then will see info about him .
       - Search about team player : if you click on this card you will go in a section in out page , by this page you will             find a search box , enter team name you want then will see name and images players in this team.
   
-# Site design :
+# Site design : https://fack1.github.io/Sporto/html/index.html
 
 # Architecture : 
 - File structure
